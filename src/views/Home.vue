@@ -20,7 +20,7 @@
 }
 
 body {
-    background: url("../assets/font.avif");
+    background: url("../views/font.avif");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
